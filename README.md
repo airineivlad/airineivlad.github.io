@@ -11,7 +11,7 @@
 - sql
  
 
-## Data Science Enthusiast
+## data_science_enthusiast
 
 - data_visualization
 - statistics_knowledge
