@@ -63,3 +63,5 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+google_analytics: "UA-143683522-1"
